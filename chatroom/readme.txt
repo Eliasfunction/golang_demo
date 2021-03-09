@@ -5,6 +5,9 @@ The functions are as follows
 3. user search online list
 4. user's hang up and exit
 
+Used Netcat to test,ip 127.1 8000.
+Logout after 10 seconds of standby.
+
 Relay version is server1 and server2.
 Final version is server3 now.
 Subsequent versions will be updated soon.
