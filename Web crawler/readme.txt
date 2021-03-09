@@ -8,4 +8,4 @@ reference www.topgoer.com
 //Any files downloaded here shall be used for legitimate purposes.
 //The creator is not liable for joint damages.
 
-//In this project, the Downloader must ensure that it is used in good faith.
+//In this project, The downloader shall be used in good faith.
